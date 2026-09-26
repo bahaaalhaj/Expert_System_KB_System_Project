@@ -1,22 +1,23 @@
 # Expert System Knowledge-Base Project
 
-An academic project for designing a rule-based expert system backed by a knowledge base.
+> A rule-based AI project focused on knowledge representation and explainable reasoning.
 
 ## Overview
 
-This repository is dedicated to the concepts behind classical artificial intelligence systems: representing knowledge, encoding rules, and applying inference to reach explainable conclusions.
+This project explores a classical artificial-intelligence approach: representing expertise as structured knowledge and rules, then applying inference to produce clear, system-generated conclusions or recommendations.
 
-Unlike black-box machine-learning models, an expert system makes its decision logic explicit through knowledge and rules.
+## Highlights
 
-## Core concepts
+- Designed a structured knowledge base
+- Developed rules that transform user-provided information into conclusions
+- Applied rule-based reasoning and inference concepts
+- Practiced knowledge representation and symbolic AI design
 
-- Knowledge representation
-- Rule-based reasoning
-- Inference mechanisms
-- Explainable decision support
-- Knowledge-base design
+## Tech stack
 
-## Getting started
+`Python` · `Rule-Based Reasoning` · `Knowledge Representation` · `Expert Systems`
+
+## Run locally
 
 ```bash
 git clone https://github.com/bahaaalhaj/Expert_System_KB_System_Project.git
@@ -25,9 +26,9 @@ cd Expert_System_KB_System_Project
 
 ## Status
 
-Project scaffold. The knowledge base, inference rules, and examples will be documented as the implementation develops.
+The knowledge base, rules, and runnable examples will be documented as the project develops.
 
 ## Author
 
-**Bahaa Alhaj**  
-GitHub: [@bahaaalhaj](https://github.com/bahaaalhaj)
+**Bahaa Alhaj** - AI Engineering student  
+[GitHub profile](https://github.com/bahaaalhaj)
